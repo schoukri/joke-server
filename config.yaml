@@ -1,0 +1,3 @@
+person_service_base_url: https://names.mcquay.me/api/v0
+joke_service_base_url: https://api.icndb.com/jokes
+http_server_port: 5000
